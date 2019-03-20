@@ -15,5 +15,6 @@ public class App
         System.out.println("初始化驱动成功");
         System.out.println( "Hello World!" );
          System.out.println( "Hello World!chenhuang" );
+        System.out.println( "Hello World!chenhuang2" );
     }
 }
